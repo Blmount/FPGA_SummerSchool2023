@@ -1,0 +1,11 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../mul_tb.cpp in debug mode
+   Generating csim.exe
+i = 15
+j = 31
+Res[i][j] = 152
+Ans[i][j] = 760
+Test failed
+ERR: [SIM 100] CSim failed with errors.
+INFO: [SIM 3] *************** CSIM finish ***************
